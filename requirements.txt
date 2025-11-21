@@ -4,3 +4,7 @@ dash-core-components
 dash-bootstrap-components
 pandas
 plotly
+scikit-learn
+google-genai
+requests
+
