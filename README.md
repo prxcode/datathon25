@@ -28,7 +28,12 @@ cd datathon25
   
 ### 3. To download all required Python packages
 - `pip install -r requirements.txt` 
-- or install Manually `pip install dash dash-bootstrap-components pandas plotly`
+- or install Manually `pip install dash dash-bootstrap-components pandas plotly requests scikit-learn requests`
 
 ### 4. Run the dashboard
 `python asimov.py`
+
+
+### Note 
+- Even when the AI features are functional, you may experience significant delays (latency) in receiving a response from the AI assistant.
+- This delay is not due to the Dash application itself but is a result of waiting for the external AI API service to process and return its complex request.
