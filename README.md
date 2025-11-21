@@ -16,8 +16,9 @@ We weren't satisfied with simple 2D charts. To pull out the tricky, hidden conne
   - The 3D Heatmap gives a great overview of how different factors—like Location and Product Category—combine to affect the Average Net Price.
 - Tidy Data Science: Behind the scenes, we included solid data cleaning and specialized handling for things like the Customer Age Group. By properly ordering these categories, we ensure the analysis is scientifically accurate, making the resulting charts much more reliable and easier to interpret.
 
-3. AI Integration 
-We think this balance of a great user interface with genuine analytical depth makes our solution uniquely effective.
+3. AI Integration
+- We think this balance of a great user interface with genuine analytical depth makes our solution uniquely effective.
+
 ---
 
 ## Project Structure
