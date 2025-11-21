@@ -17,8 +17,8 @@ This is a Python interactive dashboard built with Dash, Plotly, and Dash Bootstr
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
-cd asimov-datathon25
+git clone https://github.com/prxcode/datathon25
+cd datathon25
 ```
 
 ### 2. Create Virtual Environment (Optional)
